@@ -1,5 +1,5 @@
 {
-  "name": "http-aws-es",
+  "name": "@charlieduong94/http-aws-es",
   "version": "6.0.0",
   "description": "Use the elasticsearch-js client with Amazon ES",
   "repository": "https://github.com/TheDeveloper/http-aws-es",

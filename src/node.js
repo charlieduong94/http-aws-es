@@ -42,7 +42,7 @@ class NodeHttpClient {
     }, cleanUp);
 
     req.setNoDelay(true);
-    req.setSocketKeepAlive(true);
+    // req.setSocketKeepAlive(true);
 
     return req;
   }
